@@ -1,4 +1,4 @@
 MyTutorialRepo
 ==============
 
-Sample Reo
+Learning App
